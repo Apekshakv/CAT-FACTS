@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+   
+}
+h1{
+    font-family: cursive;
+}
+form {
+    margin: 2rem 0 1rem 0;
+  }
+  .bat{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    min-height: 45vh;
+    width: 40vh;
+  }
+  form button {
+    height: 1.5rem;
+    background-color: #af4d98;
+    color: #fff;
+    font-size: 1.15rem;
+ color: black;
+ margin-left: 37%;
+  }
+  img{
+    margin-left: 23%;
+  }
+  h1{
+    margin-left: 23%;
+  }
